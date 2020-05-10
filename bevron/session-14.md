@@ -141,3 +141,5 @@ Arix kicks the one in front of him and smashes him to bits.
 Jon attempts to attack the one in front of droop and the twig dodges it. He heals droop instead. 
 
 I hang out to let Droop have some of the glory. Droop hits a crit and destroys the twig with his slingshot. 
+
+I pick up my weapons. 
