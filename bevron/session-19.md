@@ -16,7 +16,7 @@ A buggabear runs up to me and I block it masterfully. I banish him to the shadow
 
 The other "Droop" was crying and missed his attack. 
 
-Jon casts thunderwave around him while he is stood next to the buggabear. The buggabear does the thing and takes half damage. He uses a good boi moon point to gain some HP. 
+Jon casts thunderwave around him while he is stood next to the buggabear. The buggabear does the thing and takes half damage. Jon uses a good boi moon point to gain some HP. 
 
 The buggabear attacks Jon. As he swings his big morning star down, Jon gleefully glides past it. 
 
@@ -32,7 +32,7 @@ I use Seek-Shot to find and attack the bad droop. I hit him and deal a decent am
 
 Droop continues to hold tightly onto Arix. He holds out the healing pot that Arix gave him to Arix's mouth to heal him. 
 
-Strya is attacked by a buggabear. He slams down his morning start on top of Strya who was unable to get his shield up in time. What an amateur. 
+Strya is attacked by a buggabear. He slams down his morning star on top of Strya who was unable to get his shield up in time. What an amateur. 
 
 Arix feels revitalized from the potion. He crosses the river and rejoins the group. 
 
@@ -40,7 +40,7 @@ Strya punches at the buggabear but from the force of the last attack leaving her
 
 Aergo moves further forward to see if she can find the bad droop. She moves out of sight. 
 
-One of the last two buggabears moves up to Jon and attempts to attack him but Strya bops the morning start with her shield. He grunts angrily. 
+One of the last two buggabears moves up to Jon and attempts to attack him but Strya bops the morning star with her shield. He grunts angrily. 
 
 I very cooly shoot him with my bow. I hit him right in the shoulder, exactly where I meant to. 
 
@@ -94,7 +94,7 @@ bg - Why are you in such a dangerous area?
 
 a - Danger is relative as long as you avoid it. 
 
-Arix picks up droop and brings him over to Jon to see if he has any more good boi points to give to Arix. Jon, as a lizard, a small frill comes out from the sides of his face. There are glistening starts on then and grants him two good boi points. 
+Arix picks up droop and brings him over to Jon to see if he has any more good boi points to give to Arix. Jon, as a lizard, a small frill comes out from the sides of his face. There are glistening stars on then and grants him two good boi points. 
 
 Strya gets upset at Arix for running off on his own. I walk into the room and see an elf guy with a black spider on his staff. 
 
@@ -102,7 +102,7 @@ Arix asks Aergo who her friend is.
 
 A - you mentioned this place being dangerous. 
 
-bg - There is danger all around in these caverns, its an old mine afterall. What is your movtive of being here. 
+bg - There is danger all around in these caverns, its an old mine after all. What is your motive of being here. 
 
 Arix there's spiderwebs in the room.
 
@@ -112,7 +112,7 @@ bg - what treasures are you after.
 
 a - I'm not picky. I do favors for treasures. 
 
-bg - I see. And what is a treasure hunter doing out her in fandolin.
+bg - I see. And what is a treasure hunter doing out here in fandolin.
 
 a - thats the point. I like going into the unknown. thats how you dont get caught. 
 
@@ -130,7 +130,7 @@ a - is this the danger you're speaking of?
 
 bg - I heard you yelling for your friends. 
 
-a - uhhhhhh
+a - uhhhhhh something about being deceptive and whatnot, typical Casey
 
 Arix I think the thing pretending to be droop is now pretending to be Aergo. 
 

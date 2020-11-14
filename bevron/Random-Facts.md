@@ -19,6 +19,7 @@ Sharpshooter - Your ranged attacks ignore 1/2 and 3/4 cover, don't have disadvan
 
 Switching weapons is considered a free action. 
 You can use a free action to pull out a weapon.
+Ressurection - any resurection spell that takes longer than 1 action casting time, it is a ritual where people can aid the ritual, you get 3 people to aid, there is a certain DC that you have to make that varies, Ryann roles to see if they come back or not. Each death increases the DC. 
 Odd rolls don't find arrows. Even rolls find arrows. 
 
 Int saves against me are 12. 
