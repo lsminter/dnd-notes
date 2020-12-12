@@ -134,7 +134,7 @@ We continue on through the caves.
 
 We enter a room with a big pool of water. The big waves slam into the wall of the cave. 
 
-The water level is scarily high. We continue to venture forth through the room. The water is very dark and hard to see into. There is a slit in the path. We take the southern one. It turns out to be a dead end so we head back and take the eastern path. 
+The water level is scarily high. We continue to venture forth through the room. The water is very dark and hard to see into. There is a split in the path. We take the southern one. It turns out to be a dead end so we head back and take the eastern path. 
 
 We come upon a door. Strya attempts to open it. It is a badly wounded door. It is jammed. She uses her shield to bash the doorknob. She smashes the door and it crumbles in on itself. It looks like the room was once a workshop but it's old and rusty. Nothing looks useful. 
 
