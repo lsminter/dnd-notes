@@ -123,7 +123,7 @@ I take a step back once I hear a loud screech.
 
 Jon produces a flame in his hand and moves up next to Aergo and Strya. 
 
-MEGALOVANIA STARTS PLAYING
+# MEGALOVANIA STARTS PLAYING
 
 Aergo critical strikes the zombie. It's hurting a decent bit. 
 
